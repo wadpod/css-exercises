@@ -1,0 +1,22 @@
+/* style.css */
+
+.odd-p {
+    background-color: rgb(238, 119, 119);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(130, 219, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cool-p {
+    font-size: 24px;
+}
+
